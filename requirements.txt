@@ -1,0 +1,19 @@
+# ── Web Framework ─────────────────────────────────────────────
+Flask==3.0.3
+Werkzeug==3.0.3
+
+# ── Authentication ────────────────────────────────────────────
+flask-bcrypt==1.0.1
+python-dotenv==1.0.1
+
+# ── Database ──────────────────────────────────────────────────
+# SQLite is built into Python — no extra install needed
+
+# ── Machine Learning ──────────────────────────────────────────
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+# ── Utilities ─────────────────────────────────────────────────
+python-dateutil==2.9.0
